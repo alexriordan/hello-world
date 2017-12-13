@@ -7,5 +7,6 @@ function a() {
 }
 
 function b() {
-	// not implemented
+	implementing this function
+	implementing this function
 }
