@@ -3,7 +3,9 @@
 Hi, there
 
 function a() {
-	// not implemented
+	implementing this
+	implementing this
+	implementing this
 }
 
 function b() {
