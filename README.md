@@ -13,5 +13,7 @@ function a() {
 
 function b() {
 	implementing this function
+	b
 	implementing this function
+	b
 }
